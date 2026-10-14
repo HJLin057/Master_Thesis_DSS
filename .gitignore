@@ -1,0 +1,27 @@
+# Data, images and model files are not part of this repository
+*.csv
+*.xlsx
+*.json
+*.zip
+*.h5
+*.keras
+*.npy
+*.jpg
+*.jpeg
+*.png
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+wijkbuurtkaart_*/
+weights/
+out_*/
+dapt_mlm/
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

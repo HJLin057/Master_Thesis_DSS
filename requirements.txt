@@ -1,0 +1,12 @@
+tensorflow>=2.16
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+PyWavelets
+Pillow
+scikit-learn
+statsmodels
+tqdm
